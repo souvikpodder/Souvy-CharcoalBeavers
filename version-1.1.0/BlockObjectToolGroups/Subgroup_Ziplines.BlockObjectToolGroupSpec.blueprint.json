@@ -1,0 +1,18 @@
+{
+    "BlockObjectToolGroupSpec": {
+        "Id": "Subgroup_Ziplines_CB",
+        "Order": 4,
+        "NameLocKey": "Souvy.Ziplines_Subgroup_CB.DisplayName",
+        "Icon": "Buildings/Paths/ZiplineStation/ZiplineStationIcon",
+        "FallbackGroup": false
+    },
+    "ToolGroupChildrenSpec": {
+        "ChildrenToolsTemplateNames": [
+            "ZiplineStation.Folktails",
+            "ZiplinePylon.Folktails",
+            "ZiplineBeam.Folktails",
+            "LeveeZiplineBeam.Folktails"
+        ],
+        "DoNotIncludePlaceableToolGroup": true
+    }
+}

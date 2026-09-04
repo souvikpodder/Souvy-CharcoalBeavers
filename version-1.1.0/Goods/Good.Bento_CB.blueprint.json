@@ -1,0 +1,127 @@
+{
+    "GoodSpec": {
+        "Id": "Bento_CB",
+        "DisplayNameLocKey": "Good.Bento_CB.DisplayName",
+        "PluralDisplayNameLocKey": "Good.Bento_CB.PluralDisplayName",
+        "ConsumptionEffects": [
+            {
+                "Points": 0.5,
+                "NeedId": "Bento_CB"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Hunger"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Radishes"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "GrilledCorn"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "GrilledPeppers"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "StuffedPeppers"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Cornbread"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Pepper"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "PepperJuice"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "PepperBread"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Scone"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "RedJuice"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "CornJuice"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Juice"
+            }
+        ],
+        "FeedingEffects": [
+            {
+                "Points": 0.5,
+                "NeedId": "Bento_CB"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Hunger"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Radishes"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "GrilledCorn"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "GrilledPeppers"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "StuffedPeppers"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Cornbread"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Pepper"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "PepperJuice"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "PepperBread"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Scone"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "RedJuice"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "CornJuice"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Juice"
+            }
+        ],
+        "Category": "Food",
+        "Weight": 0.05,
+        "StorageType": "Warehouse",
+        "Icon": "Sprites/Goods/BentoIcon_CB"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "BlockObjectToolGroupSpec": {
+        "Id": "Subgroup_Tunneling_CB",
+        "Order": 5,
+        "NameLocKey": "Souvy.Subgroup_Tunneling_CB.DisplayName",
+        "Icon": "Buildings/Landscaping/Tunnel/TunnelIcon",
+        "FallbackGroup": false
+    },
+    "ToolGroupChildrenSpec": {
+        "ChildrenToolsTemplateNames": [
+            "Tunnel.Emberpelts",
+            "LadderTunnel.Emberpelts",
+            "UPath.Emberpelts",
+            "TE_Tunnel_1L.Emberpelts",
+            "LeveeTunnel.Emberpelts",
+            "ImpermeablePowerShaftTunnel.Emberpelts"
+        ],
+        "ChildrenExplicitOrderedIds": [
+            {
+                "Id": "Tunnel.Emberpelts",
+                "Order": 10
+            },
+            {
+                "Id": "LadderTunnel.Emberpelts",
+                "Order": 30
+            },
+            {
+                "Id": "UPath.Emberpelts",
+                "Order": 40
+            },
+            {
+                "Id": "TE_Tunnel_1L.Emberpelts",
+                "Order": 60
+            },
+            {
+                "Id": "UPath.IronTeeth",
+                "Order": 40
+            },
+            {
+                "Id": "LeveeTunnel.Emberpelts",
+                "Order": 70
+            },
+            {
+                "Id": "ImpermeablePowerShaftTunnel.Emberpelts",
+                "Order": 80
+            }
+        ],
+        "DoNotIncludePlaceableToolGroup": true
+    }
+}

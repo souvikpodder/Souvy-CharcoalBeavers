@@ -1,0 +1,36 @@
+{
+    "BuildingPrefabMaterialPatchSpec": {
+        "FactionID": "Charcoal",
+        "PrefabName": "LargeWaterWheel.IronTeeth",
+        "MaterialEntries": [
+            {
+                "MaterialName": "WindowsAtlas.IronTeeth",
+                "NewMaterialName": "WindowsAtlas2.Emberpelts"
+            },
+            {
+                "MaterialName": "RoofPlanks.IronTeeth",
+                "NewMaterialName": "RoofPlanks2.Emberpelts"
+            },
+            {
+                "MaterialName": "PlasteredWood_Orange.IronTeeth",
+                "NewMaterialName": "PlasteredWood.Emberpelts"
+            },
+            {
+                "MaterialName": "Plaster_White.IronTeeth",
+                "NewMaterialName": "Details.Emberpelts"
+            },
+            {
+                "MaterialName": "IrregularPlanks_Brown.IronTeeth",
+                "NewMaterialName": "IrregularPlanks_DarkRed.Emberpelts"
+            },
+            {
+                "MaterialName": "BaseWood_Brown.IronTeeth",
+                "NewMaterialName": "BaseWood_DarkRed.Emberpelts"
+            },
+            {
+                "MaterialName": "BaseMetal.IronTeeth",
+                "NewMaterialName": "BaseMetal.Emberpelts"
+            }
+        ]
+    }
+}

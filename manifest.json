@@ -1,0 +1,14 @@
+{
+  "Name": "Zzz Souvy Charcoal Beavers",
+  "Version": "1.1.0",
+  "Id": "Souvy.CharcoalBeavers",
+  "MinimumGameVersion": "1.1.0.0",
+  "Description": "This mod Adds common building items to Charcoal Beavers",
+  "RequiredMods": [
+    {
+      "Id": "CharcoalBeavers",
+      "MinimumVersion": "1.1.0.0"
+    }
+  ],
+  "OptionalMods": []
+}

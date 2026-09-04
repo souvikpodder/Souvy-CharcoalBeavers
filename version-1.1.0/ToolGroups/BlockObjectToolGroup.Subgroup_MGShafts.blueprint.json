@@ -1,0 +1,40 @@
+{
+  "ToolGroupChildrenSpec": {
+    "ChildrenGroupsIds": [],
+    "ChildrenToolsTemplateNames#append": [
+      "PowerShaft.Emberpelts",
+      "VerticalPowerShaft.Emberpelts",
+      "VerticalPowerShaftTunnel.Emberpelts",
+      "ImpermeablePowerShaft.Emberpelts",
+      "ImpermeablePowerShaftTunnel.Emberpelts",
+      "Clutch.Emberpelts"
+    ],
+    "ChildrenExplicitOrderedIds": [
+      {
+        "Id": "PowerShaft.Emberpelts",
+        "Order": 10
+      },
+      {
+        "Id": "VerticalPowerShaft.Emberpelts",
+        "Order": 20
+      },
+      {
+        "Id": "VerticalPowerShaftTunnel.Emberpelts",
+        "Order": 30
+      },
+      {
+        "Id": "ImpermeablePowerShaft.Emberpelts",
+        "Order": 40
+      },
+      {
+        "Id": "ImpermeablePowerShaftTunnel.Emberpelts",
+        "Order": 50
+      },
+      {
+        "Id": "Clutch.Emberpelts",
+        "Order": 60
+      }
+    ],
+    "DoNotIncludePlaceableToolGroup": true
+  }
+}

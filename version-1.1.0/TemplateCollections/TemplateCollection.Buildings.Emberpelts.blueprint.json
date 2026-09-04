@@ -1,0 +1,13 @@
+{
+  "TemplateCollectionSpec": {
+    "CollectionId": "Buildings.Emberpelts",
+    "Blueprints#append": [
+      "Buildings/Wood/WoodWorkshop/WoodWorkshop.Folktails.blueprint",
+      "Buildings/Paths/ZiplineBeam/ZiplineBeam.Folktails.blueprint",
+      "Buildings/Paths/ZiplinePylon/ZiplinePylon.Folktails.blueprint",
+      "Buildings/Paths/ZiplineStation/ZiplineStation.Folktails.blueprint",
+      "Buildings/Power/LargeWaterWheel/LargeWaterWheel.IronTeeth.blueprint",
+      "Buildings/ImpermeablePowerShaftTunnel.Emberpelts.blueprint"
+    ]
+  }
+}

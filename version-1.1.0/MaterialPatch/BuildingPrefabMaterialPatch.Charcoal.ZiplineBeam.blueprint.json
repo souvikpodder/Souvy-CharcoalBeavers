@@ -1,0 +1,32 @@
+{
+    "BuildingPrefabMaterialPatchSpec": {
+        "FactionID": "Charcoal",
+        "PrefabName": "ZiplineBeam.Folktails",
+        "MaterialEntries": [
+            {
+                "MaterialName": "BaseWood_Brown.Folktails",
+                "NewMaterialName": "BaseWood_DarkRed.Emberpelts"
+            },
+            {
+                "MaterialName": "WindowsAtlas.Folktails",
+                "NewMaterialName": "WindowsAtlas.Emberpelts"
+            },
+            {
+                "MaterialName": "BaseMetal.Folktails",
+                "NewMaterialName": "BaseMetal.Emberpelts"
+            },
+            {
+                "MaterialName": "IrregularPlanks_Brown.Folktails",
+                "NewMaterialName": "IrregularPlanks_DarkRed.Emberpelts"
+            },
+            {
+                "MaterialName": "PlasteredWood.Folktails",
+                "NewMaterialName": "PlasteredWood.Emberpelts"
+            },
+            {
+                "MaterialName": "RoofPlanks.Folktails",
+                "NewMaterialName": "RoofPlanks.Emberpelts"
+            }
+        ]
+    }
+}

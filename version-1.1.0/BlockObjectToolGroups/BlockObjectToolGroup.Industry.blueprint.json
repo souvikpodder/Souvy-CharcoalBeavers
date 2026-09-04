@@ -1,0 +1,14 @@
+{
+    "ToolGroupChildrenSpec": {
+        "ChildrenToolsTemplateNames": [
+            "WoodWorkshop.Folktails"
+        ],
+        "ChildrenExplicitOrderedIds": [
+            {
+                "Id": "WoodWorkshop.Folktails",
+                "Order": 200
+            }
+        ],
+        "DoNotIncludePlaceableToolGroup": true
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "ToolGroupChildrenSpec": {
+    "ChildrenGroupsIds": [],
+    "ChildrenToolsTemplateNames#append": [
+      "FillValve.Emberpelts",
+      "ThrottlingValve.Emberpelts"
+    ]
+  }
+}

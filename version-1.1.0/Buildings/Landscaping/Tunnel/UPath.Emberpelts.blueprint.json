@@ -1,0 +1,18 @@
+{
+    "PlaceableBlockObjectSpec": {
+        "ToolGroupId": "Power",
+        "ToolOrder": 7,
+        "ToolShape": "Square",
+        "Layout": "Rectangle",
+        "CustomPivot": {
+            "HasCustomPivot": false,
+            "Coordinates": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+            }
+        },
+        "CanBeAttachedToTerrainSide": false,
+        "DevModeTool": false
+    }
+}

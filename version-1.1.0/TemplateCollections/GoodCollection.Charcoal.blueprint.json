@@ -1,0 +1,9 @@
+{
+  "GoodCollectionSpec": {
+    "CollectionId": "Charcoal",
+    "Goods#append": [
+      "TreatedPlank",
+      "Bento_CB"
+    ]
+  }
+}

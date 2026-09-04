@@ -1,0 +1,73 @@
+{
+    "RecipeSpec": {
+        "Id": "Bento_CB",
+        "DisplayLocKey": "Good.Bento_CB.PluralDisplayName",
+        "CycleDurationInHours": 1,
+        "CyclesCapacity": 25,
+        "Ingredients": [
+            {
+                "Amount": 1,
+                "Id": "Plank"
+            },
+            {
+                "Amount": 1,
+                "Id": "Radish"
+            },
+            {
+                "Amount": 1,
+                "Id": "Pepper"
+            },
+            {
+                "Amount": 1,
+                "Id": "Corn"
+            },
+            {
+                "Amount": 1,
+                "Id": "GrilledCorn"
+            },
+            {
+                "Amount": 1,
+                "Id": "GrilledPepper"
+            },
+            {
+                "Amount": 1,
+                "Id": "Cornbread"
+            },
+            {
+                "Amount": 1,
+                "Id": "StuffedPepper"
+            },
+            {
+                "Amount": 1,
+                "Id": "PepperBread"
+            },
+            {
+                "Amount": 1,
+                "Id": "Scone"
+            },
+            {
+                "Amount": 1,
+                "Id": "RedJuice"
+            },
+            {
+                "Amount": 1,
+                "Id": "CornJuice"
+            },
+            {
+                "Amount": 1,
+                "Id": "PepperJuice"
+            }
+        ],
+        "Products": [
+            {
+                "Amount": 10,
+                "Id": "Bento_CB"
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "Coal",
+        "CyclesFuelLasts": 50,
+        "FuelCapacity": 25,
+        "Icon": "Sprites/Goods/BentoIcon_CB"
+    }
+}
