@@ -1,0 +1,8 @@
+{
+  "TemplateCollectionSpec": {
+    "CollectionId": "Buildings.Charcoal",
+    "Blueprints": [
+      "Buildings/Paths/Tubeway/TubewayStation.Tiny.Emberpelts.blueprint"
+    ]
+  }
+}

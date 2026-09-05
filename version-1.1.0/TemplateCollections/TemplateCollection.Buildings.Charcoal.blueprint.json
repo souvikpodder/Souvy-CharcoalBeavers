@@ -7,7 +7,12 @@
       "Buildings/Paths/ZiplinePylon/ZiplinePylon.Folktails.blueprint",
       "Buildings/Paths/ZiplineStation/ZiplineStation.Folktails.blueprint",
       "Buildings/Power/LargeWaterWheel/LargeWaterWheel.IronTeeth.blueprint",
-      "Buildings/ImpermeablePowerShaftTunnel.Emberpelts.blueprint"
+      "Buildings/ImpermeablePowerShaftTunnel.Emberpelts.blueprint",
+      "Buildings/DistrictManagement/Crane/Crane.IronTeeth.blueprint",
+      "Buildings/DistrictManagement/CraneSection/CraneSection.IronTeeth.blueprint",
+      "Buildings/CraneHeads/Jib/Jib.IronTeeth.blueprint",
+      "Buildings/CraneHeads/Trebuchet/Trebuchet.IronTeeth.blueprint",
+      "Buildings/CraneHeads/CranetopWindmill/CranetopWindmill.IronTeeth.blueprint"
     ]
   }
 }
